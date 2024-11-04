@@ -1,6 +1,5 @@
-<html> 
-  <title> Mexico </title>
-
+MEXICO
+<html>
   <p> Mexico is a dice game in which players roll 2 dice. In the begining, each player rolls one dice and the highest rolling player goes first. 
     The first player will have a maxium of 3 rolls to get a number they're pleased with. 
     The number of times they roll is the number of times the 
